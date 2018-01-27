@@ -1,4 +1,4 @@
-s 					lab-2 
+				lab-2 
 
 
 who: it shows who is logged into the system.
