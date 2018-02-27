@@ -1,0 +1,15 @@
+cdate=`date +"%D"`
+for i in *
+do
+mv $i $(date "+_%d%m%y")${i%}
+done
+
+
+
+
+
+
+
+
+
+
