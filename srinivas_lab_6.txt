@@ -1,3 +1,6 @@
+Program to display date and time using scripts
+
+
 cdate=`date +"%D"`
 for i in *
 do
